@@ -1,0 +1,5 @@
+name: 7Block
+version: 1.0-SNAPSHOT
+main: block.block.main
+api-version: 1.16
+authors: [ KaninchenSpeed ]
